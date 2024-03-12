@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.goodnotesapp.twaclipboardsample",
+      "sha256_cert_fingerprints": [
+        "BB:9E:65:00:98:F5:4E:5D:B0:8B:53:71:B9:19:73:F7:2B:8A:9D:83:D8:EB:F8:6F:7A:26:F2:AB:29:86:BA:11"
+      ]
+    }
+  }
+]
