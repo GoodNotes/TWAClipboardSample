@@ -43,3 +43,6 @@ https://github.com/GoodNotes/TWAClipboardSample/assets/2377749/f720385e-49b3-483
 
 https://github.com/GoodNotes/TWAClipboardSample/assets/2377749/218290ed-b1b4-4d32-935c-6efdbd1a28ca
 
+### It also happens with other permissions, like the microphone
+
+https://github.com/GoodNotes/TWAClipboardSample/assets/2377749/6487229f-2a1a-40b0-9153-5230984e55dc
